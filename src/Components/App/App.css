@@ -30,7 +30,7 @@ h2 {
   height: 100%;
   padding: 0 17% 10% 17%;
   /* add background image to the directory as well — it is used by the CSS file. */
-  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/react/jammming/background_photo_desktop.jpgf');
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/react/jammming/background_photo_desktop.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
