@@ -1,6 +1,6 @@
 let accessToken = '';
 
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'http://jamming.kengkee.com/';
 const cliendId = '3f80579fc4e7485f878808c5d78468fd';
 
 const Spotify = {
