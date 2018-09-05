@@ -59,7 +59,7 @@ class App extends Component {
   }
 
   removeTrack(track) {
-    let newPlaylistTracks = this.state.playlistTracks;
+    let newPlaylistTracks = [...this.state.playlistTracks];
     let trackIndex = newPlaylistTracks.indexOf(track);
     if(trackIndex > -1) {
       newPlaylistTracks.splice(trackIndex, 1);
